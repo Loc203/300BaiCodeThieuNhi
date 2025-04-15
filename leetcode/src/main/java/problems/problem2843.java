@@ -1,4 +1,4 @@
-package problems.problem2843;
+package problems;
 
 import javax.sound.midi.MidiFileFormat;
 import javax.sound.sampled.FloatControl;

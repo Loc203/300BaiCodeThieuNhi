@@ -1,4 +1,4 @@
-package problems.problem3;
+package problems;
 
 import java.time.LocalDateTime;
 import java.time.LocalTime;
